@@ -1,6 +1,7 @@
 # Getting Started with Vite + React
 This project was bootstrapped with Vite.
-
+## Link Deploy
+[Live Demo](https://skwnfrontend01-damar.netlify.app/)
 ## ⚙️ Version Manager
 
 This project uses the following versions:
